@@ -12,6 +12,7 @@ there are some base configure in fluent-bit
 
 ## service 
 We won't discuss this service. You can use those configurations to configure it.
-https://docs.fluentbit.io/manual/dev-2.2/administration/configuring-fluent-bit/yaml/configuration-file#config_section
+
+web site: https://docs.fluentbit.io/manual/dev-2.2/administration/configuring-fluent-bit/yaml/configuration-file#config_section
 
 ## input 
