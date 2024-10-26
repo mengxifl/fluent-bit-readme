@@ -9,20 +9,24 @@ there are some base configure in fluent-bit
 4、parser
 5、output
 
-# log route 
+# log route
 route control by 'Tag' configuration and match and rule like example
+
 ```
 [CONFIG_NAME]
   Tag   log.raw  #  this is tag config tail file will give them log.raw tag
 ```
 
+route is the most important operation in fluent-bit
 
-## service 
+
+
+## service
 We won't discuss this service. You can use those configurations to configure it.
 
 web site: https://docs.fluentbit.io/manual/dev-2.2/administration/configuring-fluent-bit/yaml/configuration-file#config_section
 
-## input 
+## input
 Input is easy this is web site
 
 https://docs.fluentbit.io/manual/dev-2.2/pipeline/inputs
