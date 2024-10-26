@@ -1,6 +1,8 @@
 # How to Use
 1、 install docker
+
 2、 clone this repositories
+
 3、 move all of this dir to /data/fluent-bit
 
 # how to test
